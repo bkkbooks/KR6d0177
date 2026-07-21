@@ -19,15 +19,15 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0177_000-X.yaml, hash: 'sha256:fa2e33cc65008b6919b4afb87145f32586147caf707384d09f6fdf961ef0095a'}
+  - {seq: 0, filename: KR6d0177_000-X.yaml, hash: 'sha256:cb8edd372c3b6252d1a5ca6b49b8756e715a7d2f0ba9e6659b7c7018982f4a03'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0177_000-X.markers.yaml, hash: 'sha256:462caa1864ad7ebfbcaf75997aba9755abf60b41b9d4dd70bc5b57589c52c2da'}
+  - {seq: 0, role: markers, filename: assets/KR6d0177_000-X.markers.yaml, hash: 'sha256:a23da5cb6c19b0abbd13471209c522f22773c54edac0cb4a9733c46e689a4432'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0177_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 科金剛錍序
@@ -37,10 +37,10 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0177_X_000-mulu-2
     span:
-    - front
+    - body
     - 158
     - 158
   label: 金剛錍科文
   type: mulu
   level: 1
-hash: sha256:cf77001754b8d1f2f0f2648bb5d64f3e5d08a854cf020a02b67ffb200e4875e0
+hash: sha256:81601c888c92e0538c00f3e6d44d4c5c60e0e358294233f54ed32ad1283334ff
